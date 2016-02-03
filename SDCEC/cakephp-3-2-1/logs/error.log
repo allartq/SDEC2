@@ -1,0 +1,545 @@
+2016-02-02 16:42:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class User could not be found.
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/User
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-02 16:43:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class User could not be found.
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/User
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-02 16:43:40 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /SDCEC/cakephp-3-2-1/Users
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Controller/Controller.php(612): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-02-02 16:44:00 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /SDCEC/cakephp-3-2-1/Users
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Controller/Controller.php(612): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-02-02 16:45:00 Error: [Cake\View\Exception\MissingTemplateException] Template file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /SDCEC/cakephp-3-2-1/Users
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/View/View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Controller/Controller.php(612): Cake\View\View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#4 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-02-02 16:51:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Articles could not be found.
+Exception Attributes: array (
+  'class' => 'Articles',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/articles
+Referer URL: http://localhost:8888/SDCEC/cakephp-3-2-1/Users/login
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-02 16:57:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Login could not be found.
+Exception Attributes: array (
+  'class' => 'Login',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/login
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-02 16:58:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class User could not be found.
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/User/login
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-02 16:59:47 Warning: Warning (512): Method Cake\View\Helper\SessionHelper::Flash does not exist in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/View/Helper.php, line 138]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+Cake\View\Helper::__call() - CORE/src/View/Helper.php, line 138
+Cake\View\Helper\SessionHelper::Flash() - APP/Template/Layout/default.ctp, line 1
+include - APP/Template/Layout/default.ctp, line 1
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 612
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-02-02 17:27:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Add could not be found.
+Exception Attributes: array (
+  'class' => 'Add',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-02 17:27:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class User could not be found.
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/User/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-02 17:51:07 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 22]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 17:51:07 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 22)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 17:51:16 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 22]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 17:51:16 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 22)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 17:55:04 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 26]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 17:55:04 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 26)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 17:55:10 Error: Fatal Error (1): Call to a member function isUnique() on null in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 26]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 17:55:10 Error: [Cake\Error\FatalErrorException] Call to a member function isUnique() on null
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/Applications/M...', 26)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 17:55:36 Error: Fatal Error (4): syntax error, unexpected ')' in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 26]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 17:55:36 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ')'
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 26)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 17:55:44 Error: Fatal Error (1): Call to undefined method Cake\Validation\Validator::isUnique() in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 26]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 17:55:44 Error: [Cake\Error\FatalErrorException] Call to undefined method Cake\Validation\Validator::isUnique()
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/Applications/M...', 26)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 17:58:45 Error: Fatal Error (1): Call to undefined method Cake\Validation\Validator::isUnique() in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 17:58:45 Error: [Cake\Error\FatalErrorException] Call to undefined method Cake\Validation\Validator::isUnique()
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/Applications/M...', 27)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 17:59:09 Error: Fatal Error (1): Call to a member function isUnique() on null in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 17:59:09 Error: [Cake\Error\FatalErrorException] Call to a member function isUnique() on null
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', '/Applications/M...', 27)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 17:59:26 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 17:59:26 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 27)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 18:00:20 Error: Fatal Error (1): Call to undefined function App\Model\Table\isUnique() in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 18:00:20 Error: [Cake\Error\FatalErrorException] Call to undefined function App\Model\Table\isUnique()
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/Applications/M...', 27)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 18:01:52 Error: Fatal Error (4): syntax error, unexpected 'add' (T_STRING) in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 18:01:52 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'add' (T_STRING)
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 27)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-02 18:08:10 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 32]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-02 18:08:10 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /SDCEC/cakephp-3-2-1/Users/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 32)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-03 08:38:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class User could not be found.
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/user/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-03 08:38:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class User could not be found.
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/User/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-03 08:40:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Articles could not be found.
+Exception Attributes: array (
+  'class' => 'Articles',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/articles
+Referer URL: http://localhost:8888/SDCEC/cakephp-3-2-1/Users/login
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-03 08:51:42 Error: Fatal Error (4): syntax error, unexpected ';', expecting function (T_FUNCTION) in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Controller/ArtisantsController.php, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-03 08:51:42 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ';', expecting function (T_FUNCTION)
+Request URL: /SDCEC/cakephp-3-2-1/artisants
+Referer URL: http://localhost:8888/SDCEC/cakephp-3-2-1/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 14)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-03 08:52:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Login could not be found.
+Exception Attributes: array (
+  'class' => 'Login',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /SDCEC/cakephp-3-2-1/login
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-03 08:58:25 Error: Fatal Error (4): syntax error, unexpected '}' in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Controller/ArtisantsController.php, line 15]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-03 08:58:25 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '}'
+Request URL: /SDCEC/cakephp-3-2-1/artisants
+Referer URL: http://localhost:8888/SDCEC/cakephp-3-2-1/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 15)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-03 08:58:33 Error: Fatal Error (1): Class 'App\Controller\AuthComponent' not found in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Controller/ArtisantsController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-03 08:58:33 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\AuthComponent' not found
+Request URL: /SDCEC/cakephp-3-2-1/artisants
+Referer URL: http://localhost:8888/SDCEC/cakephp-3-2-1/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Applications/M...', 13)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-03 09:05:30 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Controller/AppController.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-03 09:05:30 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /SDCEC/cakephp-3-2-1/artisants
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 52)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-03 09:06:04 Error: Fatal Error (1): Class 'App\Controller\AuthComponent' not found in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Controller/AppController.php, line 41]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-03 09:06:04 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\AuthComponent' not found
+Request URL: /SDCEC/cakephp-3-2-1/artisants
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Applications/M...', 41)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-03 09:06:06 Error: Fatal Error (1): Class 'App\Controller\AuthComponent' not found in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Controller/AppController.php, line 41]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-03 09:06:06 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\AuthComponent' not found
+Request URL: /SDCEC/cakephp-3-2-1/artisants
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Applications/M...', 41)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-03 09:07:00 Error: Fatal Error (4): syntax error, unexpected ':' in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Controller/AppController.php, line 41]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-03 09:07:00 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ':'
+Request URL: /SDCEC/cakephp-3-2-1/artisants
+Referer URL: http://localhost:8888/SDCEC/cakephp-3-2-1/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/Applications/M...', 41)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-03 09:07:10 Error: Fatal Error (1): Class 'App\Controller\AuthComponent' not found in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Controller/AppController.php, line 41]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-03 09:07:11 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\AuthComponent' not found
+Request URL: /SDCEC/cakephp-3-2-1/artisants
+Referer URL: http://localhost:8888/SDCEC/cakephp-3-2-1/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Applications/M...', 41)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-02-03 12:39:46 Error: Fatal Error (1): Class 'App\Controller\AuthComponent' not found in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Controller/AppController.php, line 41]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 209
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 92
+[main] - [internal], line ??
+
+
+
+2016-02-03 12:39:46 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\AuthComponent' not found
+Request URL: /SDCEC/cakephp-3-2-1/artisants
+Stack Trace:
+#0 /Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(92): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', '/Applications/M...', 41)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+

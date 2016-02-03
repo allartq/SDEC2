@@ -1,0 +1,62 @@
+2016-02-02 16:59:47 Notice: Deprecated (16384): SessionHelper has been deprecated. Use request->session() instead. in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/vendor/cakephp/cakephp/src/View/Helper/SessionHelper.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+Cake\View\Helper\SessionHelper::__construct() - CORE/src/View/Helper/SessionHelper.php, line 39
+Cake\View\HelperRegistry::_create() - CORE/src/View/HelperRegistry.php, line 142
+Cake\Core\ObjectRegistry::load() - CORE/src/Core/ObjectRegistry.php, line 93
+Cake\View\HelperRegistry::__isset() - CORE/src/View/HelperRegistry.php, line 66
+Cake\View\View::__get() - CORE/src/View/View.php, line 888
+include - APP/Template/Layout/default.ctp, line 1
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 612
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-02-02 17:55:10 Notice: Notice (8): Undefined variable: rules in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 26]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Model\Table\UsersTable::validationDefault() - APP/Model/Table/UsersTable.php, line 26
+Cake\ORM\Table::validator() - CORE/src/Validation/ValidatorAwareTrait.php, line 106
+Cake\View\Form\EntityContext::_getValidator() - CORE/src/View/Form/EntityContext.php, line 403
+Cake\View\Form\EntityContext::isRequired() - CORE/src/View/Form/EntityContext.php, line 349
+Cake\View\Helper\FormHelper::_magicOptions() - CORE/src/View/Helper/FormHelper.php, line 1230
+Cake\View\Helper\FormHelper::_parseOptions() - CORE/src/View/Helper/FormHelper.php, line 1131
+Cake\View\Helper\FormHelper::input() - CORE/src/View/Helper/FormHelper.php, line 986
+include - APP/Template/Users/add.ctp, line 5
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 612
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-02-02 17:59:09 Notice: Notice (8): Undefined variable: rules in [/Applications/MAMP/htdocs/SDCEC/cakephp-3-2-1/src/Model/Table/UsersTable.php, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Model\Table\UsersTable::validationDefault() - APP/Model/Table/UsersTable.php, line 27
+Cake\ORM\Table::validator() - CORE/src/Validation/ValidatorAwareTrait.php, line 106
+Cake\View\Form\EntityContext::_getValidator() - CORE/src/View/Form/EntityContext.php, line 403
+Cake\View\Form\EntityContext::isRequired() - CORE/src/View/Form/EntityContext.php, line 349
+Cake\View\Helper\FormHelper::_magicOptions() - CORE/src/View/Helper/FormHelper.php, line 1230
+Cake\View\Helper\FormHelper::_parseOptions() - CORE/src/View/Helper/FormHelper.php, line 1131
+Cake\View\Helper\FormHelper::input() - CORE/src/View/Helper/FormHelper.php, line 986
+include - APP/Template/Users/add.ctp, line 5
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 612
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
